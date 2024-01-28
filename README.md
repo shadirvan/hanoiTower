@@ -1,9 +1,9 @@
 Hanoi Tower
----
+--
 Simple java program that solve hanoi tower with implementation of stack in linkedlist
 
-My Algorithm
---
+Algorithm
+---
 1. Create three Towers tower1, tower2, tower3.
 2. Set tower1 as currentTower
 3. if tower1 is currentTower set evenToTower to tower2, oddToTower to tower3
